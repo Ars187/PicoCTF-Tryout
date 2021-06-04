@@ -1,6 +1,6 @@
 ### Description
 This garden contains more than it seems.
-![garden]()
+![garden](garden)
 
 #### Hint
 What is a hex editor?
