@@ -1,6 +1,9 @@
 ### Description
 This garden contains more than it seems.
-![garden](garden.jpg)
+![garden](x-special/nautilus-clipboard
+copy
+file:///home/ars/Downloads/garden.jpg
+)
 
 #### Hint
 What is a hex editor?
