@@ -1,3 +1,9 @@
+### Description
+Files can always be changed in a secret way. Can you find the flag? cat.jpg
+
+#### Hint
+Look at the details of the file
+
 We are given a jpg file cat.jpg
 ![cat](https://user-images.githubusercontent.com/71893695/120835886-8e5fde80-c582-11eb-8753-0ae579fd27f1.jpg)
  

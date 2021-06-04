@@ -1,4 +1,9 @@
+### Description
+Matryoshka dolls are a set of wooden dolls of decreasing size placed one inside another. What's the final one? Image: this
 ![dolls](https://user-images.githubusercontent.com/71893695/120835986-acc5da00-c582-11eb-96dd-b528252fbf99.jpg)
+
+#### Hint
+Wait, you can hide files inside files? But how do you find them?
 
 The file contains the flag hidden inside it. By using binwalk we can see there exists compressed zip data inside
 ```

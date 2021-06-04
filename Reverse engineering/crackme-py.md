@@ -1,3 +1,6 @@
+### Description
+crackme.py
+
 We are given a python file crackme.py
 ```
 # Hiding this really important number in an obscure piece of code is brilliant!
