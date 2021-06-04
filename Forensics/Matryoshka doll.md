@@ -1,3 +1,4 @@
+![dolls](https://user-images.githubusercontent.com/71893695/120835986-acc5da00-c582-11eb-96dd-b528252fbf99.jpg)
 The file contains the flag hidden inside it. By using binwalk we can see there exists compressed zip data inside
 ```
 $ binwalk dolls.jpg

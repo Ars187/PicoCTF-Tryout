@@ -1,4 +1,5 @@
 We are given a jpg file cat.jpg
+![cat](https://user-images.githubusercontent.com/71893695/120835886-8e5fde80-c582-11eb-8753-0ae579fd27f1.jpg)
  
 In the hints it says to check the details of the file
 
