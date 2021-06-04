@@ -1,6 +1,6 @@
 ### Description
 This garden contains more than it seems.
-![garden](garden)
+![garden](https://user-images.githubusercontent.com/71893695/120835445-f5c95e80-c581-11eb-80cf-11ebe7caea93.jpg)
 
 #### Hint
 What is a hex editor?
